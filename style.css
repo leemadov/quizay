@@ -1,0 +1,19 @@
+p {
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body {
+    background-image: url("https://www.cloudberries.co.uk/wp-content/uploads/2020/09/skinny-gradient-puzzle.jpg");
+    background-repeat: no-repeat;
+    background-size: 110%;
+}
+
+img {
+    border-radius: 20px;
+}
